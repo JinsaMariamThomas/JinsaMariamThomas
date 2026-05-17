@@ -1,4 +1,4 @@
-# Hi, I'm Rudy 👋
+# Hi, I'm Jinsa 👋
 
 ### Aspiring Data Analyst & Machine Learning Enthusiast
 
