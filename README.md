@@ -2,9 +2,9 @@
 
 ### Aspiring Data Analyst & Machine Learning Enthusiast
 
-Building data-driven projects using Python, Machine Learning, and Data Analysis.
+Passionate about Machine Learning, Data Analysis, and building practical projects with Python.
 
----
+
 
 ##  About Me
 
@@ -13,7 +13,7 @@ Building data-driven projects using Python, Machine Learning, and Data Analysis.
 -  Building real-world Machine Learning projects
 -  Focused on improving through hands-on learning and projects
 
----
+
 
 ##  Tech Stack
 
@@ -37,23 +37,24 @@ Building data-driven projects using Python, Machine Learning, and Data Analysis.
 
 </p>
 
----
+
 
 ##  Featured Projects
 
 ###  Fake News Detection
 Machine Learning + NLP project using TF-IDF Vectorization and Logistic Regression.
+🔗 https://github.com/JinsaMariamThomas/Fake-news-detection
 
 ###  Crypto Price Prediction
 Time-series forecasting project using ARIMA and Streamlit.
+🔗 https://github.com/JinsaMariamThomas/Cryto-price-prediction
 
----
+
 
 ##  Connect With Me
+-  [LeetCode](https://leetcode.com/u/Jinsa/)
+-  [GitHub](https://github.com/JinsaMariamThomas)
 
--  LeetCode: https://leetcode.com/u/Jinsa/
--  GitHub: https://github.com/JinsaMariamThomas
 
----
-
+ 
 ⭐ Always learning, building, and improving.
