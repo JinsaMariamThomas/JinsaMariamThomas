@@ -1,8 +1,10 @@
 # Hi, I'm Jinsa 👋
 
+<img src="https://avatars.githubusercontent.com/u/175250505?v=4" width="180" style="border-radius:50%;" />
+
 ### Aspiring Data Analyst & Machine Learning Enthusiast
 
-Passionate about building data-driven projects and improving my skills in Machine Learning, Data Analysis, and Visualization.
+Passionate about transforming data into meaningful insights and building machine learning projects that solve real-world problems.
 
 ---
 
@@ -11,39 +13,51 @@ Passionate about building data-driven projects and improving my skills in Machin
 - Exploring Machine Learning & NLP
 - Building real-world data projects
 - Learning SQL & Power BI
-- Interested in Data Visualization and Predictive Analytics
-- Consistently improving through projects and practice
+- Interested in Predictive Analytics and AI
+- Continuously improving through hands-on projects
 
 ---
 
-## Skills & Tools
+## 🚀 Tech Stack
 
-| Category | Technologies |
-|---|---|
-| Programming | Python |
-| Data Analysis | Pandas, NumPy |
-| Visualization | Matplotlib, Seaborn |
-| Machine Learning | Scikit-learn |
-| Other Tools | Streamlit, GitHub |
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,pandas,numpy,sklearn,git,github,vscode" />
+
+</p>
 
 ---
 
-## Featured Projects
+## 📊 Libraries & Tools
 
-### Fake News Detection
-Machine Learning + NLP project that classifies news articles using TF-IDF and Logistic Regression.
+<p align="center">
 
-### Crypto Price Prediction
-Time-series forecasting project using ARIMA and Streamlit.
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" />
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+<img src="https://img.shields.io/badge/NLTK-154F3B?style=for-the-badge" />
 
-### Upcoming Projects
+</p>
+
+---
+
+## 🌟 Featured Projects
+
+### 📰 Fake News Detection
+NLP + Machine Learning project that classifies news articles using TF-IDF Vectorization and Logistic Regression.
+
+### 📈 Crypto Price Prediction
+Time-series forecasting project using ARIMA and Streamlit for cryptocurrency trend prediction.
+
+### 🎬 Upcoming Projects
 - Netflix Data Analysis
 - Customer Churn Prediction
 - Power BI Dashboards
+- SQL Data Analytics Projects
 
 ---
 
-## Currently Learning
+## 📚 Currently Learning
 
 - SQL
 - Power BI
@@ -52,16 +66,35 @@ Time-series forecasting project using ARIMA and Streamlit.
 
 ---
 
-## Goals
+## 🎯 Goals
 
-- Build impactful ML projects
+- Build impactful ML & Data Analysis projects
 - Become internship ready
-- Improve problem-solving skills
+- Improve analytical and problem-solving skills
 - Create professional dashboards and applications
 
 ---
 
-## Connect With Me
+## 📈 GitHub Stats
 
-- [LeetCode](https://leetcode.com/u/Jinsa/)
-- [GitHub](https://github.com/JinsaMariamThomas)
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=JinsaMariamThomas&show_icons=true&theme=tokyonight" />
+
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+- 💼 LinkedIn
+- 🧠 LeetCode: https://leetcode.com/u/Jinsa/
+- 🌐 GitHub: https://github.com/JinsaMariamThomas
+
+---
+
+<p align="center">
+  
+⭐ Always learning, building, and improving.
+
+</p>
