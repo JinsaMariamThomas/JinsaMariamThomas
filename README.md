@@ -1,38 +1,24 @@
-<h1 align="center">Hi 👋, I'm Rudy</h1>
+# Hi, I'm Jinsa 👋
 
-<h3 align="center">
-Aspiring Data Analyst & Machine Learning Enthusiast
-</h3>
+### Aspiring Data Analyst & Machine Learning Enthusiast
 
-<p align="center">
-Passionate about building data-driven projects, exploring Machine Learning, and continuously improving through hands-on learning.
-</p>
+Building data-driven projects using Python, Machine Learning, and Data Analysis.
 
 ---
 
 ## 🚀 About Me
 
-- 🌱 Currently learning SQL, Power BI & Advanced Machine Learning
-- 📊 Interested in Data Analysis, NLP & Predictive Analytics
-- 💻 Building real-world projects using Python
-- 🎯 Goal: Become internship-ready and build impactful ML projects
+- 🌱 Learning SQL, Power BI & Advanced ML
+- 📊 Interested in NLP, Data Analysis & Predictive Analytics
+- 💻 Building real-world ML projects
+- 🎯 Goal: Become internship-ready through hands-on projects
 
 ---
 
 ## 🛠️ Tech Stack
 
-<p align="center">
-
+<p>
 <img src="https://skillicons.dev/icons?i=python,pandas,numpy,sklearn,git,github,vscode" />
-
-</p>
-
-<p align="center">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="50" height="50"/>
-
-<img src="https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-darktext.png" width="90"/>
-
 </p>
 
 ---
@@ -47,32 +33,20 @@ Time-series forecasting project using ARIMA and Streamlit.
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
-<p align="center">
+![](https://github-readme-stats.vercel.app/api?username=JinsaMariamThomas&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
 
-<img src="https://github-readme-stats.vercel.app/api?username=JinsaMariamThomas&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
-
-</p>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=JinsaMariamThomas&theme=tokyonight&hide_border=true&layout=compact)
 
 ---
 
 ## 🌐 Connect With Me
 
-<p align="center">
-
-<a href="https://leetcode.com/u/Jinsa/">
-<img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
-</a>
-
-<a href="https://github.com/JinsaMariamThomas">
-<img src="https://skillicons.dev/icons?i=github" width="50"/>
-</a>
-
-</p>
+- 💼 LinkedIn
+- 🧠 LeetCode: https://leetcode.com/u/Jinsa/
+- 🌐 GitHub: https://github.com/JinsaMariamThomas
 
 ---
 
-<p align="center">
-⭐ <i>Always learning, building, and improving.</i>
-</p>
+⭐ Always learning, building, and improving.
