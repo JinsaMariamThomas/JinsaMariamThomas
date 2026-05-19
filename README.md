@@ -18,7 +18,21 @@ Building data-driven projects using Python, Machine Learning, and Data Analysis.
 ## 🛠️ Tech Stack
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,pandas,numpy,sklearn,git,github,vscode" />
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+
 </p>
 
 ---
@@ -35,12 +49,15 @@ Time-series forecasting project using ARIMA and Streamlit.
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=JinsaMariamThomas&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+<p>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=JinsaMariamThomas&theme=tokyonight&hide_border=true&layout=compact)
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=JinsaMariamThomas&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JinsaMariamThomas&layout=compact&theme=tokyonight&hide_border=true&border_radius=10"/>
+
+</p>
 
 ---
-
 ## 🌐 Connect With Me
 
 - 💼 LinkedIn
