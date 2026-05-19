@@ -1,12 +1,11 @@
 # Hi, I'm Jinsa 👋
 
-### Aspiring Data Analyst & Machine Learning Enthusiast
+<h3><i>Aspiring Data Analyst & Machine Learning Enthusiast</i></h3>
 
-Passionate about Machine Learning, Data Analysis, and building practical projects with Python.
+<p><i>Passionate about Machine Learning, Data Analysis, and building practical projects with Python.</i></p>
 
 
-
-##  About Me
+<h2> About Me</h2>
 
 -  Currently learning SQL, Power BI & Advanced Machine Learning
 -  Interested in NLP, Data Analysis & Predictive Analytics
@@ -15,7 +14,7 @@ Passionate about Machine Learning, Data Analysis, and building practical project
 
 
 
-##  Tech Stack
+<h2> Tech Stack</h2>
 
 <p>
 
@@ -43,10 +42,12 @@ Passionate about Machine Learning, Data Analysis, and building practical project
 
 ###  Fake News Detection
 Machine Learning + NLP project using TF-IDF Vectorization and Logistic Regression.
+
 🔗 https://github.com/JinsaMariamThomas/Fake-news-detection
 
 ###  Crypto Price Prediction
 Time-series forecasting project using ARIMA and Streamlit.
+
 🔗 https://github.com/JinsaMariamThomas/Cryto-price-prediction
 
 
