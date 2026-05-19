@@ -6,63 +6,53 @@ Building data-driven projects using Python, Machine Learning, and Data Analysis.
 
 ---
 
-## 🚀 About Me
+##  About Me
 
-- 🌱 Learning SQL, Power BI & Advanced ML
-- 📊 Interested in NLP, Data Analysis & Predictive Analytics
-- 💻 Building real-world ML projects
-- 🎯 Goal: Become internship-ready through hands-on projects
+-  Currently learning SQL, Power BI & Advanced Machine Learning
+-  Interested in NLP, Data Analysis & Predictive Analytics
+-  Building real-world Machine Learning projects
+-  Focused on improving through hands-on learning and projects
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 <p>
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white"/>
 
 </p>
 
 ---
 
-## 🌟 Featured Projects
+##  Featured Projects
 
-### 📰 Fake News Detection
+###  Fake News Detection
 Machine Learning + NLP project using TF-IDF Vectorization and Logistic Regression.
 
-### 📈 Crypto Price Prediction
+###  Crypto Price Prediction
 Time-series forecasting project using ARIMA and Streamlit.
 
 ---
 
-## 📊 GitHub Stats
+##  Connect With Me
 
-<p>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=JinsaMariamThomas&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JinsaMariamThomas&layout=compact&theme=tokyonight&hide_border=true&border_radius=10"/>
-
-</p>
-
----
-## 🌐 Connect With Me
-
-- 💼 LinkedIn
-- 🧠 LeetCode: https://leetcode.com/u/Jinsa/
-- 🌐 GitHub: https://github.com/JinsaMariamThomas
+-  LeetCode: https://leetcode.com/u/Jinsa/
+-  GitHub: https://github.com/JinsaMariamThomas
 
 ---
 
