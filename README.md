@@ -1,24 +1,25 @@
-# Hi, I'm Jinsa 👋
+<h1 align="center">Hi 👋, I'm Rudy</h1>
 
-<img src="https://avatars.githubusercontent.com/u/175250505?v=4" width="180" style="border-radius:50%;" />
+<h3 align="center">
+Aspiring Data Analyst & Machine Learning Enthusiast
+</h3>
 
-### Aspiring Data Analyst & Machine Learning Enthusiast
-
-Passionate about transforming data into meaningful insights and building machine learning projects that solve real-world problems.
-
----
-
-## About Me
-
-- Exploring Machine Learning & NLP
-- Building real-world data projects
-- Learning SQL & Power BI
-- Interested in Predictive Analytics and AI
-- Continuously improving through hands-on projects
+<p align="center">
+Passionate about building data-driven projects, exploring Machine Learning, and continuously improving through hands-on learning.
+</p>
 
 ---
 
-## 🚀 Tech Stack
+## 🚀 About Me
+
+- 🌱 Currently learning SQL, Power BI & Advanced Machine Learning
+- 📊 Interested in Data Analysis, NLP & Predictive Analytics
+- 💻 Building real-world projects using Python
+- 🎯 Goal: Become internship-ready and build impactful ML projects
+
+---
+
+## 🛠️ Tech Stack
 
 <p align="center">
 
@@ -26,16 +27,11 @@ Passionate about transforming data into meaningful insights and building machine
 
 </p>
 
----
-
-## 📊 Libraries & Tools
-
 <p align="center">
 
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" />
-<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
-<img src="https://img.shields.io/badge/NLTK-154F3B?style=for-the-badge" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="50" height="50"/>
+
+<img src="https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-darktext.png" width="90"/>
 
 </p>
 
@@ -44,34 +40,10 @@ Passionate about transforming data into meaningful insights and building machine
 ## 🌟 Featured Projects
 
 ### 📰 Fake News Detection
-NLP + Machine Learning project that classifies news articles using TF-IDF Vectorization and Logistic Regression.
+Machine Learning + NLP project using TF-IDF Vectorization and Logistic Regression.
 
 ### 📈 Crypto Price Prediction
-Time-series forecasting project using ARIMA and Streamlit for cryptocurrency trend prediction.
-
-### 🎬 Upcoming Projects
-- Netflix Data Analysis
-- Customer Churn Prediction
-- Power BI Dashboards
-- SQL Data Analytics Projects
-
----
-
-## 📚 Currently Learning
-
-- SQL
-- Power BI
-- Advanced Machine Learning
-- Data Visualization Techniques
-
----
-
-## 🎯 Goals
-
-- Build impactful ML & Data Analysis projects
-- Become internship ready
-- Improve analytical and problem-solving skills
-- Create professional dashboards and applications
+Time-series forecasting project using ARIMA and Streamlit.
 
 ---
 
@@ -79,7 +51,7 @@ Time-series forecasting project using ARIMA and Streamlit for cryptocurrency tre
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=JinsaMariamThomas&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=JinsaMariamThomas&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 
 </p>
 
@@ -87,14 +59,20 @@ Time-series forecasting project using ARIMA and Streamlit for cryptocurrency tre
 
 ## 🌐 Connect With Me
 
-- 💼 LinkedIn
-- 🧠 LeetCode: https://leetcode.com/u/Jinsa/
-- 🌐 GitHub: https://github.com/JinsaMariamThomas
+<p align="center">
+
+<a href="https://leetcode.com/u/Jinsa/">
+<img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
+</a>
+
+<a href="https://github.com/JinsaMariamThomas">
+<img src="https://skillicons.dev/icons?i=github" width="50"/>
+</a>
+
+</p>
 
 ---
 
 <p align="center">
-  
-⭐ Always learning, building, and improving.
-
+⭐ <i>Always learning, building, and improving.</i>
 </p>
